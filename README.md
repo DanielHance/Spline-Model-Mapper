@@ -1,8 +1,8 @@
-User Guide __
-__
-The .exe file to start the program is located within the ‘/Executable’ (works on windows only). __
-__
-__
+User Guide <br />
+<br />
+The .exe file to start the program is located within the ‘/Executable’ (works on windows only). <br />
+<br />
+<br />
 Controls__
 /n• w,a,s,d,q,e – Move the camera.__
 • L/R Arrows – Rotate camera.__
